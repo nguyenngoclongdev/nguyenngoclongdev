@@ -1,7 +1,7 @@
-![Nguyen Ngoc Long](images/profile.png)
+<img width="100%" align="right" src="images/profile.png">
 
 <!-- Visitor -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyenngoclongdev.nguyenngoclongdev">
+<img style="margin-top: 5px;" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyenngoclongdev.nguyenngoclongdev">
 
 <!-- Hello Message -->
 <h3 align="center">
