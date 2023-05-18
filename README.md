@@ -9,15 +9,17 @@
         &gt; Hey There!, I am <b><a target="_blank" href="https://nguyenngoclongdev.github.io/">Nguyen Ngoc Long</a></b>
     </samp>
 </h3>
-<br>
+&nbsp;
 
 <!-- Profile -->
 <p align="center">
     <samp>
-        I'm a software developer from <b>Vietnam</b><br>
-        「 Research Assistant & Computer Engineer & Software Developer</b> 」<br>
+        I'm a software developer from <b>Vietnam</b
+        &nbsp;
+        「 Research Assistant & Computer Engineer & Software Developer</b> 」
     </samp>
-    <br>
+    &nbsp;
+    &nbsp;
     <!-- JavaScript -->
     <a href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
@@ -45,7 +47,7 @@
 </p>
 
 <!-- Repositories -->
-</br>
+&nbsp;
 <h2 align="center"><samp>Repositories</samp></h2>
 <p align="center">
     <a href="https://github.com/nguyenngoclongdev/nguyenngoclongdev">
@@ -58,7 +60,7 @@
 </p>
 
 <!-- Stats -->
-</br>
+&nbsp;
 <h2 align="center"><samp>Stats & Languages</samp></h2>
 <p align="center">
     <img width='45%' height='150px' src="https://github-readme-stats.vercel.app/api?username=nguyenngoclongdev&theme=gruvbox&hide_border=true&show_icons=true" />
@@ -67,12 +69,12 @@
 </p>
 
 <!-- Contribution Graph -->
-</br>
+&nbsp;
 <h2 align="center"><samp>Contribution Graph</samp></h2>
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyenngoclongdev&theme=gruvbox&bg_color=20232a&hide_border=true&hide_title=true" />
 
 <!-- Footer -->
-</br>
-</br>
-<h3 align="center"><samp>Made with ❤️ - Nguyen Ngoc Long - 2023.</samp></h3>
+&nbsp;
+&nbsp;
+<h3 align="center"><samp>Made with ❤️ - 2023.</samp></h3>
 
