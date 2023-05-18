@@ -14,12 +14,10 @@
 <!-- Profile -->
 <p align="center">
     <samp>
-        I'm a software developer from <b>Vietnam</b
-        &nbsp;
-        「 Research Assistant & Computer Engineer & Software Developer</b> 」
+        I'm a software developer from <b>Vietnam</b><br>
+        「 Research Assistant & Computer Engineer & Software Developer</b> 」<br>
     </samp>
-    &nbsp;
-    &nbsp;
+    <br>
     <!-- JavaScript -->
     <a href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
