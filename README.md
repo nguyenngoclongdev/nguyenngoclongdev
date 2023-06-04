@@ -45,11 +45,11 @@
 &nbsp;
 <h2 align="center"><samp>Repositories</samp></h2>
 <p align="center">
-    <a href="https://github.com/nguyenngoclongdev/nguyenngoclongdev">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=nguyenngoclongdev&theme=gruvbox&hide_border=true" />
+    <a href="https://github.com/nguyenngoclongdev/vscode-fs-browserify">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vscode-fs-browserify&theme=gruvbox&hide_border=true" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/step-definition-generator">
+    <a href="https://github.com/nguyenngoclongdev/step-definition-generator">
         <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=gruvbox&hide_border=true" />
     </a>
 </p>
