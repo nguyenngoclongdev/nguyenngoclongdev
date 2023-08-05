@@ -47,36 +47,8 @@
 
 <h2 align="center"><samp>Repositories</samp></h2>
 <p align="center">
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/vs-terminal-keeper">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-terminal-keeper&theme=gruvbox&hide_border=true" />
-    </a>
-    <span>&nbsp;</span>
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/step-definition-generator">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=gruvbox&hide_border=true" />
-    </a>
-</p>
-<p align="center">
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/vs-asdf">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-asdf&theme=gruvbox&hide_border=true" />
-    </a>
-    <span>&nbsp;</span>
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/vs-diff">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-diff&theme=gruvbox&hide_border=true" />
-    </a>
-</p>
-<p align="center">
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/vs-data-sync">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=gruvbox&hide_border=true" />
-    </a>
-    <span>&nbsp;</span>
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/pkgscan">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=pkgscan&theme=gruvbox&hide_border=true" />
-    </a>
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/vscode-fs-browserify">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vscode-fs-browserify&theme=gruvbox&hide_border=true" />
-    </a>
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev/gherkin-editor">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=gherkin-editor&theme=gruvbox&hide_border=true" />
+    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
+        <img align="center" src="metrics.repositories.svg" alt="Metrics" width="100%">
     </a>
 </p>
 
@@ -85,11 +57,8 @@
 &nbsp;
 
 <h2 align="center"><samp>Stats & Languages</samp></h2>
-<p align="center">
-    <img width='45%' height='150px' src="https://github-readme-stats.vercel.app/api?username=nguyenngoclongdev&theme=gruvbox&hide_border=true&show_icons=true" />
-    <span>&nbsp;</span>
-    <img width='45%' height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenngoclongdev&theme=gruvbox&layout=compact&hide_border=true" />
-</p>
+<img align="center" src="metrics.languages.svg" alt="Metrics" width="100%">
+<img align="center" src="metrics.reactions.svg" alt="Metrics" width="100%">
 
 <!-- Funding -->
 
