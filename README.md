@@ -45,19 +45,25 @@
 
 &nbsp;
 
-<h2 align="center"><samp>Repositories</samp></h2>
+<h2 align="center"><samp>Featured repositories</samp></h2>
 <p align="center">
     <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
         <img align="center" src="metrics.repositories.svg" alt="Metrics" width="100%">
     </a>
 </p>
 
-<!-- Stats -->
+<!-- Languages -->
 
 &nbsp;
 
-<h2 align="center"><samp>Stats & Languages</samp></h2>
+<h2 align="center"><samp>Used languages</samp></h2>
 <img align="center" src="metrics.languages.svg" alt="Metrics" width="100%">
+
+<!-- Reactions -->
+
+&nbsp;
+
+<h2 align="center"><samp>Overall users reactions</samp></h2>
 <img align="center" src="metrics.reactions.svg" alt="Metrics" width="100%">
 
 <!-- Funding -->
@@ -80,18 +86,18 @@
     </a>
 </p>
 
-<!-- Achievements Graph -->
+<!-- Commits history -->
 
 &nbsp;
 
-<h2 align="center"><samp>Calendar</samp></h2>
-<img align="center" src="metrics.isocalendar.fullyear.svg" alt="Achievements" width="100%">
+<h2 align="center"><samp>Commits history</samp></h2>
+<img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
 
-<!-- Contribution Graph -->
+<!-- Metrics -->
 
 &nbsp;
 
-<h2 align="center"><samp>Contribution Graph</samp></h2>
+<h2 align="center"><samp>Metrics</samp></h2>
 <img align="center" src="metrics.svg" alt="Metrics" width="100%">
 
 <!-- Footer -->

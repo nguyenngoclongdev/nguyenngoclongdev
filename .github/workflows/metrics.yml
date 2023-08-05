@@ -14,7 +14,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          base: ""
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Calendar
@@ -49,4 +48,5 @@ jobs:
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
+          plugin_repositories_featured: vs-asdf, vs-data-sync, vs-terminal-keeper, step-definition-generator, gherkin-editor, vs-diff, pkgscan, vscode-fs-browserify,
           plugin_repositories_order: featured, pinned, starred, random
