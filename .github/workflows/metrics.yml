@@ -16,11 +16,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
 
-      - name: Achievements
+      - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.achievements.svg
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

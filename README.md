@@ -115,8 +115,8 @@
 
 &nbsp;
 
-<h2 align="center"><samp>Achievements</samp></h2>
-<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%">
+<h2 align="center"><samp>Calendar</samp></h2>
+<img align="center" src="metrics.isocalendar.fullyear.svg" alt="Achievements" width="100%">
 
 <!-- Contribution Graph -->
 
