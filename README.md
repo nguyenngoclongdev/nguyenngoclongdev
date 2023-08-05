@@ -40,11 +40,9 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp">
     </a>
 </p>
-
-<!-- Repositories -->
-
 &nbsp;
 
+<!-- Repositories -->
 <h2 align="center"><samp>Featured repositories</samp></h2>
 <p align="center">
     <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
@@ -53,37 +51,22 @@
 </p>
 
 <!-- Languages -->
-
-&nbsp;
-
 <h2 align="center"><samp>Used languages</samp></h2>
 <img align="center" src="metrics.languages.svg" alt="Metrics" width="100%">
 
 <!-- Reactions -->
-
-&nbsp;
-
 <h2 align="center"><samp>Overall users reactions</samp></h2>
 <img align="center" src="metrics.reactions.svg" alt="Metrics" width="100%">
 
 <!-- Commits history -->
-
-&nbsp;
-
 <h2 align="center"><samp>Commits history</samp></h2>
 <img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
 
 <!-- Metrics -->
-
-&nbsp;
-
 <h2 align="center"><samp>Metrics</samp></h2>
 <img align="center" src="metrics.svg" alt="Metrics" width="100%">
 
 <!-- Funding -->
-
-&nbsp;
-
 <h2 align="center"><samp>Sponsor Me!</samp></h2>
 <p align="center">
     <!-- KO-FI -->
@@ -101,7 +84,4 @@
 </p>
 
 <!-- Footer -->
-
-&nbsp;
-
 <h3 align="center"><samp>Made with ❤️ - 2023.</samp></h3>

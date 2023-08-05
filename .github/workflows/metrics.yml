@@ -1,6 +1,10 @@
 name: Metrics
 on:
+  # Workflow manually
   workflow_dispatch:
+  schedule:
+    # Schedule updates (at the end of every day)
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
