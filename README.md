@@ -1,4 +1,4 @@
-<img width="100%" align="right" src="images/profile.png">
+<!-- <img width="100%" align="right" src="images/profile.png"> -->
 
 <!-- Hello Message -->
 <h3 align="center">
@@ -45,12 +45,36 @@
 &nbsp;
 <h2 align="center"><samp>Repositories</samp></h2>
 <p align="center">
-    <a href="https://github.com/nguyenngoclongdev/nguyenngoclongdev">
-        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=nguyenngoclongdev&theme=gruvbox&hide_border=true" />
+    <a href="https://github.com/nguyenngoclongdev/vs-terminal-keeper">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-terminal-keeper&theme=gruvbox&hide_border=true" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/step-definition-generator">
         <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=gruvbox&hide_border=true" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/nguyenngoclongdev/vs-asdf">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-asdf&theme=gruvbox&hide_border=true" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/nguyenngoclongdev/vs-diff">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-diff&theme=gruvbox&hide_border=true" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/nguyenngoclongdev/vs-data-sync">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=gruvbox&hide_border=true" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/nguyenngoclongdev/pkgscan">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=pkgscan&theme=gruvbox&hide_border=true" />
+    </a>
+    <a href="https://github.com/nguyenngoclongdev/vscode-fs-browserify">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vscode-fs-browserify&theme=gruvbox&hide_border=true" />
+    </a>
+    <a href="https://github.com/nguyenngoclongdev/gherkin-editor">
+        <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=gherkin-editor&theme=gruvbox&hide_border=true" />
     </a>
 </p>
 
@@ -66,7 +90,7 @@
 <!-- Contribution Graph -->
 &nbsp;
 <h2 align="center"><samp>Contribution Graph</samp></h2>
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyenngoclongdev&theme=gruvbox&bg_color=20232a&hide_border=true&hide_title=true" />
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!-- Footer -->
 &nbsp;
