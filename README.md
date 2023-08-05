@@ -66,11 +66,25 @@
 <h2 align="center"><samp>Overall users reactions</samp></h2>
 <img align="center" src="metrics.reactions.svg" alt="Metrics" width="100%">
 
+<!-- Commits history -->
+
+&nbsp;
+
+<h2 align="center"><samp>Commits history</samp></h2>
+<img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
+
+<!-- Metrics -->
+
+&nbsp;
+
+<h2 align="center"><samp>Metrics</samp></h2>
+<img align="center" src="metrics.svg" alt="Metrics" width="100%">
+
 <!-- Funding -->
 
 &nbsp;
 
-<h2 align="center"><samp>Buy Me a Coffee</samp></h2>
+<h2 align="center"><samp>Sponsor Me!</samp></h2>
 <p align="center">
     <!-- KO-FI -->
     <a style="text-decoration:none" href="https://ko-fi.com/nguyenngoclong" target="_blank">
@@ -85,20 +99,6 @@
         <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
     </a>
 </p>
-
-<!-- Commits history -->
-
-&nbsp;
-
-<h2 align="center"><samp>Commits history</samp></h2>
-<img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
-
-<!-- Metrics -->
-
-&nbsp;
-
-<h2 align="center"><samp>Metrics</samp></h2>
-<img align="center" src="metrics.svg" alt="Metrics" width="100%">
 
 <!-- Footer -->
 
