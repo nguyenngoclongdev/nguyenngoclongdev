@@ -49,7 +49,7 @@
         <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-terminal-keeper&theme=gruvbox&hide_border=true" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/step-definition-generator">
+    <a href="https://github.com/nguyenngoclongdev/step-definition-generator">
         <img width='45%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=gruvbox&hide_border=true" />
     </a>
 </p>
