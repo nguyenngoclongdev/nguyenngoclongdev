@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2 { margin: 2px 5px 6px !important; }
 
       - name: Calendar
@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
       - name: Languages
@@ -54,7 +54,7 @@ jobs:
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_reactions: yes
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
       - name: Repositories
@@ -62,18 +62,19 @@ jobs:
         with:
           filename: metrics.repositories.svg
           base: ""
+          repositories_skipped: |
+            @use.patterns
+
+            -nguyenngoclongdev/nguyenngoclongdev
+            -nguyenngoclongdev/nguyenngoclongdev.github.io
+            -nguyenngoclongdev/cdn
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
           plugin_repositories_pinned: 6
           plugin_repositories_starred: 100
           plugin_repositories_random: 100
           plugin_repositories_order: pinned, starred, featured, random
-          repositories_skipped: |
-            @use.patterns
-            -nguyenngoclongdev/nguyenngoclongdev
-            -nguyenngoclongdev/nguyenngoclongdev.github.io
-            -nguyenngoclongdev/cdn
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
       - name: Recently starred
@@ -84,7 +85,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 3
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
       - name: Followup
@@ -95,7 +96,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_followup: true
           plugin_followup_sections: repositories
-          extras_css: |  # Make it prettier
+          extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
       # - name: Achievements
