@@ -44,11 +44,9 @@
 
 <!-- Repositories -->
 <h2 align="center"><samp>Featured repositories</samp></h2>
-<p align="center">
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img align="center" src="metrics.repositories.svg" alt="Featured repositories" width="100%">
-    </a>
-</p>
+<a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
+    <img align="center" src="metrics.repositories.svg" alt="Featured repositories" width="100%">
+</a>
 
 <!-- Languages -->
 <h2 align="center"><samp>Most used languages</samp></h2>
@@ -71,12 +69,12 @@
 <img align="center" src="metrics.followup.svg" alt="Followup" width="100%">
 
 <!-- Achievements -->
-<h2 align="center"><samp>Achievements</samp></h2>
-<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%">
+<!-- <h2 align="center"><samp>Achievements</samp></h2>
+<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%"> -->
 
 <!-- People -->
-<h2 align="center"><samp>People</samp></h2>
-<img align="center" src="metrics.people.svg" alt="People" width="100%">
+<!-- <h2 align="center"><samp>People</samp></h2>
+<img align="center" src="metrics.people.svg" alt="People" width="100%"> -->
 
 <!-- Metrics -->
 <h2 align="center"><samp>Metrics</samp></h2>
