@@ -68,7 +68,11 @@ jobs:
           plugin_repositories_starred: 100
           plugin_repositories_random: 100
           plugin_repositories_order: pinned, starred, featured, random
-          repositories_skipped: nguyenngoclongdev, nguyenngoclongdev.github.io, cdn
+          repositories_skipped: |
+            @use.patterns
+            -nguyenngoclongdev/nguyenngoclongdev
+            -nguyenngoclongdev/nguyenngoclongdev.github.io
+            -nguyenngoclongdev/cdn
           extras_css: |  # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
