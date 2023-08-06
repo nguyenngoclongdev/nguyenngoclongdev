@@ -71,8 +71,12 @@
 <img align="center" src="metrics.followup.svg" alt="Followup" width="100%">
 
 <!-- Achievements -->
-<!-- <h2 align="center"><samp>Achievements</samp></h2>
-<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%"> -->
+<h2 align="center"><samp>Achievements</samp></h2>
+<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%">
+
+<!-- People -->
+<h2 align="center"><samp>People</samp></h2>
+<img align="center" src="metrics.people.svg" alt="People" width="100%">
 
 <!-- Metrics -->
 <h2 align="center"><samp>Metrics</samp></h2>
