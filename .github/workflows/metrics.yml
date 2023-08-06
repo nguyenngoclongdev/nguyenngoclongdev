@@ -20,7 +20,6 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           extras_css: |  # Make it prettier
-            * { font-size: 15px; }
             h2 { margin: 2px 5px 6px !important; }
 
       - name: Calendar
@@ -46,11 +45,7 @@ jobs:
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_details: bytes-size, percentage
           extras_css: | # Make it prettier
-            * { font-size: 16px; }
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
-            .row { justify-content: center; }
-            .row section { flex: unset !important; width: 232px }
-            .field svg { margin: 0px 8px 0 -4px; }
 
       - name: Reactions
         uses: lowlighter/metrics@latest
