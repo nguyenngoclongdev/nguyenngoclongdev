@@ -95,17 +95,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_followup: true
           plugin_followup_sections: repositories
-
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          base: ""
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: true  # Show achievements
-          plugin_achievements_threshold: C  # Show all unlocked achievements
-          plugin_achievements_secrets: true  # Include secret achievements
-          plugin_achievements_limit: 0  # All that can fit
-          plugin_achievements_display: compact  # Compact layout
           extras_css: |  # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
+
+      # - name: Achievements
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.achievements.svg
+      #     base: ""
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     plugin_achievements: true  # Show achievements
+      #     plugin_achievements_threshold: C  # Show all unlocked achievements
+      #     plugin_achievements_secrets: true  # Include secret achievements
+      #     plugin_achievements_limit: 0  # All that can fit
+      #     plugin_achievements_display: compact  # Compact layout
+      #     extras_css: |  # Make it prettier
+      #       h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }

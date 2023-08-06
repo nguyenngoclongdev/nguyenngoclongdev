@@ -71,8 +71,8 @@
 <img align="center" src="metrics.followup.svg" alt="Followup" width="100%">
 
 <!-- Achievements -->
-<h2 align="center"><samp>Achievements</samp></h2>
-<img align="center" src="metrics.svg" alt="Achievements" width="100%">
+<!-- <h2 align="center"><samp>Achievements</samp></h2>
+<img align="center" src="metrics.achievements.svg" alt="Achievements" width="100%"> -->
 
 <!-- Metrics -->
 <h2 align="center"><samp>Metrics</samp></h2>
