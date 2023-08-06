@@ -51,7 +51,7 @@
 </p>
 
 <!-- Languages -->
-<h2 align="center"><samp>Used languages</samp></h2>
+<h2 align="center"><samp>Most used languages</samp></h2>
 <img align="center" src="metrics.languages.svg" alt="Used languages" width="100%">
 
 <!-- Reactions -->
@@ -65,6 +65,14 @@
 <!-- Recently starred -->
 <h2 align="center"><samp>Recently starred</samp></h2>
 <img align="center" src="metrics.stars.svg" alt="Recently starred" width="100%">
+
+<!-- Followup -->
+<h2 align="center"><samp>Followup</samp></h2>
+<img align="center" src="metrics.followup.svg" alt="Followup" width="100%">
+
+<!-- Achievements -->
+<h2 align="center"><samp>Achievements</samp></h2>
+<img align="center" src="metrics.svg" alt="Achievements" width="100%">
 
 <!-- Metrics -->
 <h2 align="center"><samp>Metrics</samp></h2>
