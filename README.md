@@ -46,21 +46,25 @@
 <h2 align="center"><samp>Featured repositories</samp></h2>
 <p align="center">
     <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img align="center" src="metrics.repositories.svg" alt="Metrics" width="100%">
+        <img align="center" src="metrics.repositories.svg" alt="Featured repositories" width="100%">
     </a>
 </p>
 
 <!-- Languages -->
 <h2 align="center"><samp>Used languages</samp></h2>
-<img align="center" src="metrics.languages.svg" alt="Metrics" width="100%">
+<img align="center" src="metrics.languages.svg" alt="Used languages" width="100%">
 
 <!-- Reactions -->
 <h2 align="center"><samp>Overall users reactions</samp></h2>
-<img align="center" src="metrics.reactions.svg" alt="Metrics" width="100%">
+<img align="center" src="metrics.reactions.svg" alt="Overall users reactions" width="100%">
 
 <!-- Commits history -->
 <h2 align="center"><samp>Commits history</samp></h2>
 <img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
+
+<!-- Recently starred -->
+<h2 align="center"><samp>Recently starred</samp></h2>
+<img align="center" src="metrics.stars.svg" alt="Recently starred" width="100%">
 
 <!-- Metrics -->
 <h2 align="center"><samp>Metrics</samp></h2>

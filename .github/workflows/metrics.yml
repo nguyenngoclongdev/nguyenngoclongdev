@@ -52,5 +52,16 @@ jobs:
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
-          plugin_repositories_featured: vs-asdf, vs-data-sync, vs-terminal-keeper, step-definition-generator, gherkin-editor, vs-diff, pkgscan, vscode-fs-browserify,
-          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 6
+          plugin_repositories_starred: 100
+          plugin_repositories_random: 100
+          plugin_repositories_order: pinned, starred, featured, random
+
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
