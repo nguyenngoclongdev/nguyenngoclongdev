@@ -61,8 +61,8 @@
 <img align="center" src="metrics.calendar.svg" alt="Commits history" width="100%">
 
 <!-- Starred topics -->
-<h2 align="center"><samp>Starred topics</samp></h2>
-<img align="center" src="metrics.topics.svg" alt="Starred topics" width="100%">
+<!-- <h2 align="center"><samp>Starred topics</samp></h2>
+<img align="center" src="metrics.topics.svg" alt="Starred topics" width="100%"> -->
 
 <!-- Recently starred -->
 <h2 align="center"><samp>Recently starred</samp></h2>
