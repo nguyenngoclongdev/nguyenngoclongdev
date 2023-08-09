@@ -84,6 +84,9 @@
 <h2 align="center"><samp>Metrics</samp></h2>
 <img align="center" src="metrics.svg" alt="Metrics" width="100%">
 
+<!-- Recent activity -->
+<!--START_SECTION:activity-->
+
 <!-- Funding -->
 <h2 align="center"><samp>Sponsor Me!</samp></h2>
 <p align="center">
