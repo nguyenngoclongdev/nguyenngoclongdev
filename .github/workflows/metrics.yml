@@ -83,6 +83,18 @@ jobs:
           extras_css: | # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.topics.svg
+          base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          extras_css: | # Make it prettier
+            h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
+
       - name: Followup
         uses: lowlighter/metrics@latest
         with:
