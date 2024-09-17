@@ -50,14 +50,14 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenngoclongdev&show_icons=true&theme=codeSTACKr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenngoclongdev&show_icons=true&rank_icon=github&theme=codeSTACKr" />
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=nguyenngoclongdev&theme=dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=nguyenngoclongdev&theme=dark&hide_border=true" />
 </details>
 
 <details>
