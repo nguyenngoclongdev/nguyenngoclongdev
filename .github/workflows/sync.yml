@@ -10,6 +10,7 @@ jobs:
     name: Sync Profile
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Sync Profile
         run: |
           git clone https://$GITHUB_ACTOR:${{secrets.gh_secret}}@github.com/nguyenngoclongdev/nguyenngoclongdev.github.io.git
