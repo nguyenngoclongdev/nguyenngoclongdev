@@ -1,7 +1,7 @@
 <!-- Hello Message -->
 <h3>
     <samp>
-        &gt; Hey There!, I am <b><a style="text-decoration:none" target="_blank" href="https://nguyenngoclongdev.github.io/">Nguyen Ngoc Long</a></b>
+        &gt; Hey There!, I am <b><a style="text-decoration:none" target="_blank" href="https://nguyenngoclongdev.github.io">Nguyen Ngoc Long</a></b>
     </samp>
 </h3>
 &nbsp;
@@ -34,15 +34,7 @@ Like My Work?
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://skillicons.dev/icons?i=js,ts,python,java,cs,bash,aws,react,ps,figma,cypress" alt="skills"></code>
 
 ### Projects and Dev Stuffs:
 
@@ -70,6 +62,13 @@ Like My Work?
 	    <li><b>🧪 Terminal: </b> ZSH: Oh My Zsh</li>
  	    <li><b>📚 Other Tools:</b> Postman, Termius, Burpsuite, 1 Password...</li>
 	</ul>
+</details>
+
+<details>
+  <summary><b>🎉 Profile Views</b></summary>
+
+  <br />
+  <img src="https://visitcount.itsvg.in/api?id=nguyenngoclongdev&label=Profile%20Views&color=6" />
 </details>
 
 <!-- Footer -->
