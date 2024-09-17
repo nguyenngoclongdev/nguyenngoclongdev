@@ -57,7 +57,7 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://streak-stats.demolab.com?user=nguyenngoclongdev&theme=dark&hide_border=true" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=nguyenngoclongdev&theme=dark&hide_border=true" />
 </details>
 
 <details>
