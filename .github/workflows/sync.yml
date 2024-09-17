@@ -16,7 +16,7 @@ jobs:
           cd nguyenngoclongdev.github.io
           git config user.name LongNguyen
           git config user.email nguyenngoclong.dev@outlook.com
-          mv README.md README.md
+          mv ../README.md README.md
           git add README.md
           git commit -m "Sync README.md"
           git push
